@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Navbar from './Navbar'
 import Analytics from './Analytics'
-import Balance from './Balance'
+import Adverts from './Adverts'
 import History from './History'
 
 function Dashboard() {
@@ -12,7 +12,7 @@ function Dashboard() {
             <div className="grid">        
                     <Navbar />
                     <Analytics />
-                    <Balance />
+                    <Adverts />
                     <History />    
             </div>
     </Segment>

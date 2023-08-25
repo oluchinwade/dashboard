@@ -1,13 +1,10 @@
 import React from 'react'
 import styled from 'styled-components'
-import { BsCreditCard } from "react-icons/bs";
 import { AiOutlineMore } from "react-icons/ai";
 import { BiTransfer } from "react-icons/bi";
 import { BsBank } from "react-icons/bs";
 import { GiTakeMyMoney } from "react-icons/gi";
 import{PiVault} from "react-icons/pi";
-import {FaMoneyBillTrendUp} from "react-icons/fa6";
-
 function Analytic() {
     return (
         <Section>

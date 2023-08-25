@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import { BiHomeAlt } from "react-icons/bi";
-import { MdPayments} from 'react-icons/md'
 import { GiPayMoney } from 'react-icons/gi'
 import { MdFastfood } from 'react-icons/md'
 import { MdOutlineLaptop } from 'react-icons/md'
